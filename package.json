@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-red-contrib-average": "^0.1.8",
+    "node-red-contrib-cheerio-function":"^1.0.0-rc.5",
+    "node-red-contrib-html-to-text": "^0.0.1",
+    "node-red-contrib-linux-diskio": "^0.2.4",
+    "node-red-contrib-linux-memory": "^0.8.4",
+    "node-red-contrib-linux-network-stats": "^0.2.4",
+    "node-red-contrib-nlp": "^2.0.3",
+    "node-red-contrib-os": "^0.2.0",
+    "node-red-contrib-persist": "^1.1.1",
+    "node-red-contrib-rss": "^0.1.5",
+    "node-red-contrib-unfluff": "^1.0.0",
+    "node-red-admin": "^0.2.7",
+    "node-red-dashboard": "^2.28.2",
+    "node-red-node-rbe": "^0.4.0",
+    "node-red-node-smooth": "^0.1.2",
+    "node-red-node-sqlite": "^0.6.0",
+    "node-red-node-tail": "^0.2.0",
+    "node-red-node-ui-table": "^0.3.10",
+    "node-red": "^1.2.9"
+  },
+  "description": "Piku Node-Red example.",
+  "name": "piku-deploy-node-red"
+}
