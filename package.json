@@ -16,7 +16,7 @@
     "node-red-node-rbe": "^0.5.0",
     "node-red-node-smooth": "^0.1.2",
     "node-red-node-sqlite": "^0.6.0",
-    "node-red-node-tail": "^0.2.0",
+    "node-red-node-tail": "^0.3.1",
     "node-red-node-ui-table": "^0.3.10",
     "node-red": "^2.1.3"
   },
