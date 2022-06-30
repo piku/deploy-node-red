@@ -11,7 +11,7 @@
     "node-red-contrib-persist": "^1.1.1",
     "node-red-contrib-rss": "^0.1.5",
     "node-red-contrib-unfluff": "^1.0.0",
-    "node-red-admin": "^2.2.1",
+    "node-red-admin": "^3.0.0",
     "node-red-dashboard": "^3.1.0",
     "node-red-node-rbe": "^0.5.0",
     "node-red-node-smooth": "^0.1.2",
