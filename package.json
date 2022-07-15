@@ -17,7 +17,7 @@
     "node-red-node-sqlite": "^1.0.3",
     "node-red-node-tail": "^0.3.2",
     "node-red-node-ui-table": "^0.3.12",
-    "node-red": "^2.2.2"
+    "node-red": "^3.0.0"
   },
   "description": "Piku Node-Red example.",
   "name": "piku-deploy-node-red"
