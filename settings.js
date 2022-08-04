@@ -8,7 +8,7 @@ module.exports = {
 
     // By default, the Node-RED UI accepts connections on all IPv4 interfaces.
     // So this restricts it to only allow connections from nginx on the local machine.
-    uiHost: "127.0.0.1",
+    uiHost: process.env.BIND_ADDRESS || "127.0.0.1",
 
     // Retry time in milliseconds for MQTT connections
     mqttReconnectTime: 15000,
@@ -216,8 +216,14 @@ module.exports = {
         }
     },
     editorTheme: {
-       projects: {
-           enabled: false
-       }
+        codeEditor: {
+            lib: "monaco",
+            options: {
+                theme: "vs"
+            }
+        },
+        projects: {
+            enabled: true
+        }
    },
 }
